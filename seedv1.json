@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "product_id": "12345678",
+            "name": "A5 Memo Bottle Portable Ultra Slim 420ML Water Bottle (Clear)",
+            "description": "100% LEAKPROOF, FITS ANYWHERE",
+            "product_type": "Water Bottles",
+            "brand": "Memo",
+            "model": "A5 MEMO",
+            "warranty_period": "14 days",
+            "warranty_type": "Lazada refund warranty only",
+            "inside_box": "1 x A5 Memo Bottle Portable Ultra Slim 420ML Water Bottle (Clear)",           
+            "images": ["intro.mp4", "front.jpg", "side.jpg", "model.jpg"],
+            "original_price": 200.00,
+            "discount_rate": 10
+        },
+        {
+            "product_id": "12123434",
+            "name": "Hand Bag Running Arm Band Leather Case For iphone Holder Pouch Belt GYM Cover",
+            "description": "Durable case for long time use .",
+            "product_type": "Phone Cases",
+            "brand": "No Brand",
+            "model": "",
+            "warranty_period": "7 days",
+            "warranty_type": "Lazada refund warranty only",
+            "inside_box": "1 x Arm Band",           
+            "images": ["front.jpg", "advert.jpg"],
+            "original_price": 99.99,
+            "discount_rate": 5 
+        },
+        {
+            "product_id": "56789056",
+            "name": "FH Essentials Spa Massage Oil 100ml (Peppermint)",
+            "description": "gives a cooling sensation and has a calming effect on the body,",
+            "product_type": "Essential Oils",
+            "brand": "FH Essentials",
+            "model": "OILS007",
+            "warranty_period": "",
+            "warranty_type": "",
+            "inside_box": "1 x Item",
+            "images": ["produt.jpg"],           
+            "original_price": 499.00,
+            "discount_rate": 20 
+        }                
+    ]
+}
