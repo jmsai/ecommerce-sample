@@ -1,3 +1,3 @@
 # E-commerce (back end) using Python
 
-This is a description of the app
+Sample API for an e-commerce. Made for learning Python.
