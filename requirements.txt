@@ -18,7 +18,7 @@ mccabe==0.6.1
 mysql-connector-python==8.0.16
 pathtools==0.1.2
 pep8==1.7.1
-protobuf==3.8.0
+protobuf==3.18.3
 pycparser==2.19
 pylint==2.3.1
 pytz==2019.1
